@@ -8,7 +8,7 @@ A GUI designed to make fast and easy security reports, using Python with tkinter
         - pip install reportlab
         
 # Installation
-        - git clone https://github.com/AK-codes/final.git
+        - git clone https://github.com/AK-codes/Bam-Report-Final-Capstone.git
         
 # Getting Started
         - In order to get started and use our email function, the user will need to enter their email address on line 99 and corresponding password on line 100
